@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/yukiarrr/ios-build-action.git"
+    "url": "git+ssh://git@github.com/david-potgieter/ios-build-action.git"
   },
   "keywords": [],
   "author": "",
